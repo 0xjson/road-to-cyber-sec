@@ -23,7 +23,7 @@ various avaliable resource to learn during the SG-Circuit-Breaker
     - [ ] Python Fuctions
     - [ ] Python Lamda
     - [ ] Python  Operating System Services
- - Python Data Structure and Algorithms
+    - Python Data Structure and Algorithms
         - [ ] Data Structure
         - [ ] Search and Sorting
         - [ ] Link List
@@ -167,9 +167,10 @@ Courses | checklist | Prerequisites
 [Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development) | :negative_squared_cross_mark: | programming, interactive design
 
 ### CTF
-- [Overthewire](https://overthewire.org) - [ ]
-- [hackthebox](https://hackthebox.eu) - [ ]
-
+- [Overthewire](https://overthewire.org)  
+- [hackthebox](https://hackthebox.eu) 
+- [Owasp Juiceshop](https://github.com/bkimminich/juice-shop)
+- [hacker101](https://ctf.hacker101.com)
 # Refernces
 
 - [OSSU](https://github.com/ossu/computer-science) - Open Source Society University  
