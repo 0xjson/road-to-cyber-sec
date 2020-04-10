@@ -4,6 +4,7 @@ various avaliable resource to learn during the SG-Circuit-Breaker
 ## Index
 - [Programming](https://github.com/aquilonix/road-to-cyber-sec#programming) - software development
 - [Computer Science](https://github.com/aquilonix/road-to-cyber-sec#computer-science) - OSSU
+- [ctf](https://github.com/aquilonix/road-to-cyber-sec#ctf) - ctf
 ### Programming
 - :book: *learn python the hard way* by Zed Shaw
 - [w3resource-python](https://www.w3resource.com/python-exercises/)
@@ -165,6 +166,10 @@ Courses | checklist | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | :negative_squared_cross_mark: | One year programming experience
 [Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development) | :negative_squared_cross_mark: | programming, interactive design
 
+### CTF
+- [Overthewire](https://overthewire.org) - [ ]
+- [hackthebox](https://hackthebox.eu) - [ ]
+
 # Refernces
 
-- [OSSU](https://github.com/ossu/computer-science) - 
+- [OSSU](https://github.com/ossu/computer-science) - Open Source Society University  
